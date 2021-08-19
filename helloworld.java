@@ -3,6 +3,7 @@ public class helloworld {
          // prints "hello world" to terminal window.
          system.out.println("Hello World");
          system.out.println("Hello World");
-         system.out.println("Hello World");
+         system.out.println("Hey world Hi");
+         
     }
 }
