@@ -50,5 +50,10 @@ Some of the most popular options for the deployment of Elasticsearch and Solr ar
 ## Conclusion
 To get great performance, speed, searching and scalability we can use Elasticsearch or Solr because they give search results that match the search term and they are fast in doing these operations, and they have a number of powerful built-in features that make storing and searching data even more efficient, such as data rollups and index lifecycle management.
 
+---
+
+## Reference
+[Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch)
+
 
 
