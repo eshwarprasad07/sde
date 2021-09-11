@@ -54,7 +54,9 @@ To get great performance, speed, searching and scalability we can use Elasticsea
 
 ## Reference
 [Elasticsearch wikipedia](https://en.wikipedia.org/wiki/Elasticsearch)
+
 [Solr](https://solr.apache.org/features.html)
+
 [sematext](https://sematext.com/blog/solr-vs-elasticsearch-differences/)
 
 
